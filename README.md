@@ -10,12 +10,12 @@
 
 ## [组成](SoC/)
 
-### [编译工具](https://github.com/mcuyun/compile)
+### [编译工具](https://github.com/sochub/compile)
 
-### [检视工具](https://github.com/mcuyun/lint)
+### [检视工具](https://github.com/sochub/lint)
 
-### [调试工具](https://github.com/mcuyun/debug)
+### [调试工具](https://github.com/sochub/debug)
 
-### [下载工具](https://github.com/mcuyun/flash)
+### [下载工具](https://github.com/sochub/flash)
 
 ##  [SoC开发平台](http://www.qitas.cn)   
