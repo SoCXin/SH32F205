@@ -1,19 +1,14 @@
-﻿[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+﻿# [toolchain](https://github.com/sochub/toolchain) 
 
-# [toolchain](https://github.com/mcuyun/toolchain) 
+[![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
-#### 关于：[mcuyun](https://github.com/mcuyun/whyme) 访问 www.mcuyun.com
+####  qitas@qitas.cn
 
+## [描述](https://github.com/sochub/toolchain/wiki) 
 
-## [简介](https://github.com/mcuyun/toolchain/wiki) 
+开发工具集合
 
-用于嵌入式开发的工具
-
-
-
----
-
-## 组成
+## [组成](SoC/)
 
 ### [编译工具](https://github.com/mcuyun/compile)
 
@@ -23,8 +18,4 @@
 
 ### [下载工具](https://github.com/mcuyun/flash)
 
----
-
-###  [嵌入式开发云](http://www.mcuyun.com)
-###  qitas@qitas.cn
-###  2018-12-1
+##  [SoC开发平台](http://www.qitas.cn)   
