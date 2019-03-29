@@ -6,16 +6,18 @@
 
 ## [描述](https://github.com/sochub/toolchain/wiki) 
 
-开发工具集合
+平台软件开发工具集
 
-## [组成](SoC/)
+## [组成](https://github.com/sochub/toolchain/wiki)  
 
-### [编译工具](https://github.com/sochub/compile)
+#### [编译工具](https://github.com/sochub/compiler)
 
-### [检视工具](https://github.com/sochub/lint)
+#### [检视工具](https://github.com/sochub/lint)
 
-### [调试工具](https://github.com/sochub/debug)
+#### [调试工具](https://github.com/sochub/debug)
 
-### [下载工具](https://github.com/sochub/flash)
+#### [下载工具](https://github.com/sochub/flash)
+
+---
 
 ##  [SoC开发平台](http://www.qitas.cn)   
