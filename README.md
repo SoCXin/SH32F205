@@ -8,7 +8,9 @@
 
 平台软件开发工具集
 
-## [组成](https://github.com/sochub/toolchain/wiki)  
+### [硬件工具集](https://github.com/sochub/EDA) 
+
+## [成员](https://github.com/sochub/toolchain/wiki)  
 
 #### [编译工具](https://github.com/sochub/compiler)
 
