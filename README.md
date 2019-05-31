@@ -1,25 +1,20 @@
-﻿# [toolchain](https://github.com/sochub/toolchain) 
-
+﻿# [SDK](https://github.com/sochub/SDK) 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
+#### 硬件开发工具：[EDA](https://github.com/sochub/EDA)
+#### 软件开发工具：[SDK](https://github.com/sochub/SDK)
 
-####  qitas@qitas.cn
+## [SDK描述](https://github.com/sochub/SDK/wiki) 
 
-## [描述](https://github.com/sochub/toolchain/wiki) 
+SDK（Software Development Kit）开发工具集，收录本平台下各种SoC芯片开发的各种工具软件和必要资源
 
-平台软件开发工具集
+### [工具分类](https://github.com/sochub/SDK)
 
-### [硬件工具集](https://github.com/sochub/EDA) 
+* [代码规范](https://github.com/sochub/lint)
 
-## [成员](https://github.com/sochub/toolchain/wiki)  
+* [编译构建](https://github.com/sochub/compiler)
 
-#### [编译工具](https://github.com/sochub/compiler)
+* [设备调试](https://github.com/sochub/debug)
 
-#### [检视工具](https://github.com/sochub/lint)
+* [下载更新](https://github.com/sochub/flash)
 
-#### [调试工具](https://github.com/sochub/debug)
-
-#### [下载工具](https://github.com/sochub/flash)
-
----
-
-##  [SoC开发平台](http://www.qitas.cn)   
+###  [SoC资源平台](https://github.com/sochub)
