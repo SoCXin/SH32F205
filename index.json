@@ -1,0 +1,26 @@
+{
+    "type":"MCU",
+    "name":"SH32F205",
+    "Freq":"72MHz",
+    "Core":"Cortex-M23",
+    "title": "GigaDevice SH32F205 MCU",
+    "description":"GigaDevice Cortex-M23 MCU",
+    "manufacturer": {
+        "vendor":"gigadevice",
+        "homepage":"https://www.gigadevice.com/zh-hans/products/microcontrollers/gd32/arm-cortex-m4/?fwp_processor_type=cortex-m4&fwp_microcontrollers_product_series=SH32F205"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/SH32F205.git"
+    },
+    "version":"1.0.0",
+    "series":["SH32F205KC","SH32F205JC","SH32F205KE","SH32F205PE"],
+    "package":["UFBGA100","LQFP100","LQFP64","LQFP48","QFN60","QFN48"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "72MHz",
+        "LQFP48","LQFP32","QFN32",
+        "3.6V","1.8V"
+    ]
+}

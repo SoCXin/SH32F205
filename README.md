@@ -1,32 +1,31 @@
-﻿# [SDK](https://github.com/sochub/SDK) 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 硬件开发工具：[EDA](https://github.com/sochub/EDA)
-#### 软件开发工具：[SDK](https://github.com/sochub/SDK)
+﻿# [SH32F205](https://github.com/SoCXin/SH32F205)
 
-## [SDK描述](https://github.com/sochub/SDK/wiki) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-SDK（Software Development Kit）开发工具集，收录本平台下各种SoC芯片开发的各种工具软件和必要资源
+* [sinowealth](https://www.sinowealth.com/)：[Cortex-M3](https://github.com/SoCXin/Cortex)
+* [L4R4](https://github.com/SoCXin/Level)：120 MHz x 1.25 DMIPS/MHz (154CoreMark)
 
-### [工具分类](https://github.com/sochub/SDK)
+## [简介](https://github.com/SoCXin/SH32F205/wiki)
 
-* [平台工具](https://github.com/sochub/IDE)
-    * [keil工具](https://github.com/sochub/keil)
-    * [IAR工具](https://github.com/sochub/IAR)
-    * [arduino](https://github.com/sochub/arduino)
-* [代码规范](https://github.com/sochub/lint)
-    * [C语言规范](https://github.com/sochub/Pclint)
-    * [python规范](https://github.com/sochub/Pylint)
-* [编译构建](https://github.com/sochub/compiler)
-    * [8051 编译](https://github.com/sochub/SDCC)
-    * [MIPS 编译](https://github.com/sochub/xtensa)
-    * [ARM cortex M编译](https://github.com/sochub/arm-none-eabi)
-    * [ARMv7 32 编译](https://github.com/sochub/arm-eabi)
-    * [ARMv7 32 linux编译](https://github.com/sochub/arm-linux-eabi)
-    * [ARMv8 64 linux编译](https://github.com/sochub/aarch-linux)
-* [设备调试](https://github.com/sochub/debug)
-    * [Jlink调试](https://github.com/sochub/Jlink)  
-    * [STlink调试](https://github.com/sochub/STlink)  
-    * [RISC-V调试](https://github.com/sochub/RISC-V-debug)  
-* [烧录更新](https://github.com/sochub/image)
+[SH32F205](https://github.com/SoCXin/SH32F205) 内置了两个独立的电机控制PWM模块（MCM），四个通用PWM定时器模块（GPT），集成了三个高速运算放大器和三个模拟比较器，三个独立的12位2M SPS多通道高速ADC，内置温度传感器电路和参考电压发生电路等。SH32F205的基本资源可实现双电机FOC控制加有源PFC控制。
+SH32F205提供8/16/32位CRC代码校验和数据校验，提供内存自检模块，独立看门狗，窗口看门狗，低电压复位电路，掉电检测电路，时钟停振检测等模块，提供基于客户安全码的代码保护，保证系统的可靠性和代码的安全性。
 
-###  [SoC资源平台](https://github.com/sochub)
+[![sites](docs/SH32F205.png)](https://www.sinowealth.com/detaile?pro_id=161)
+
+### 关键特性
+
+* FOC专用硬件SVPWM引擎
+* 3个高速模拟比较器（CMPx）
+* 3个独立高速模拟放大器（OPx）
+
+#### 封装规格
+
+* LQFP100 (4 x 4 x 0.85mm)
+* LQFP80 (5 x 5 x 0.85mm)
+
+
+### [选型建议](https://github.com/SoCXin)
+
+[SH32F205](https://github.com/SoCXin/SH32F205)
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
